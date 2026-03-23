@@ -9,8 +9,6 @@
 [![AWS](https://img.shields.io/badge/AWS-EC2%20%2B%20S3-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 [![Claude](https://img.shields.io/badge/AI-Claude%20Haiku-CC785C?style=flat)](https://anthropic.com)
 
-[**Live Demo**](http://iam-explainer-jawad-2026.s3-website-us-east-1.amazonaws.com) • [**How It Works**](#how-it-works) • [**Run Locally**](#running-locally)
-
 </div>
 
 ---
@@ -96,7 +94,7 @@ iam-policy-explainer/
 **Setup**
 ```bash
 # Clone the repo
-git clone https://github.com/zaanngo/iam-policy-explainer.git
+git clone https://github.com/ngo/iam-policy-explainer.git
 cd iam-policy-explainer/backend
 
 # Create virtual environment
@@ -119,7 +117,6 @@ Then open `frontend/index.html` in your browser.
 ---
 
 ## What I Learned
-
 - Building and deploying a Flask REST API from scratch
 - Integrating Claude AI with structured JSON prompt engineering
 - AWS EC2 deployment — SSH, security groups, systemd services
@@ -143,6 +140,6 @@ Then open `frontend/index.html` in your browser.
 
 ## Author
 
-Built by Adnan Nazir Ahmed — a cloud engineer learning AWS by building real tools.
+Built by Adnan Nazir Ahmed, a cloud engineer learning AWS by building real tools.
 
-[![GitHub](https://img.shields.io/badge/GitHub-zaanngo-181717?style=flat&logo=github)](https://github.com/zaanngo)
+[![GitHub](https://img.shields.io/badge/GitHub-adnannazirahmed-181717?style=flat&logo=github)](https://github.com/adnannazirahmed)
